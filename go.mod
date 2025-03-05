@@ -14,7 +14,7 @@ require (
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c // indirect
 	github.com/Microsoft/go-winio v0.6.2 // indirect
-	github.com/Sirupsen/logrus v1.9.3 // indirect
+	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/containerd/containerd v1.7.26 // indirect
 	github.com/containerd/errdefs v0.3.0 // indirect
 	github.com/docker/distribution v2.6.0-rc.1.0.20170726174610-edc3ab29cdff+incompatible // indirect
