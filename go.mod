@@ -4,9 +4,8 @@ go 1.22
 
 require (
 	github.com/docker/docker v17.12.0-ce-rc1.0.20210128214336-420b1d36250f+incompatible
-	github.com/elastic/go-ucfg v0.8.3
+	github.com/elastic/go-ucfg v0.8.8
 	github.com/sirupsen/logrus v1.9.3
-	github.com/slpcat/log-pilot v0.0.0-20250305114558-43683354f37f
 	golang.org/x/net v0.34.0
 	gopkg.in/check.v1 v1.0.0-20161208181325-20d25e280405
 )
