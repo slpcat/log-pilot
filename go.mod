@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.23.7
 
 require (
-	github.com/docker/docker v20.10.27+incompatible
+	github.com/docker/docker v24.0.9+incompatible
 	github.com/elastic/go-ucfg v0.8.8
 	github.com/sirupsen/logrus v1.9.3
 	golang.org/x/net v0.34.0
