@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"github.com/slpcat/log-pilot/pilot"
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"io/ioutil"
 	"os"
 	"path/filepath"
